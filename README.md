@@ -8,4 +8,4 @@ A Chrome extension to automate ServiceNow access request submissions during new 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/servicenow-access-automator.git
+   git clone https://github.com/markgraziano-twlo/snow-boarder.git
